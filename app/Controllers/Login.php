@@ -16,12 +16,12 @@ class Login extends BaseController
     {
         $this->keys = [
             'google' => [
-                'clientID' => '47242949804-8kr9d4412b9kppu2sib2ji5rpfpkmi3j.apps.googleusercontent.com',
-                'clientSECRET' => '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'
+                'clientID' => '',
+                'clientSECRET' => ''
             ],
             'github' => [
-                'clientID' => '8b462c4df1b4a2c018f1',
-                'clientSECRET' => 'b2ebaa8d1aa23101102fccedfe6a7e3497aa23e6'
+                'clientID' => '',
+                'clientSECRET' => ''
             ]
         ];
 
